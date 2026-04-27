@@ -2,7 +2,7 @@
     "name": "sentinelphp/encrypt",
     "description": "Sodium-based encryption library for sensitive data",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["encryption", "sodium", "security", "data-protection"],
     "homepage": "https://github.com/SentinelPHP/encrypt",
     "authors": [
